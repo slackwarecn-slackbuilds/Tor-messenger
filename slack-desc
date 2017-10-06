@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+           |-----handy-ruler------------------------------------------------------|
+tor-messenger: tor-messenger (tor-based instant messenger)
+tor-messenger:
+tor-messenger: The Tor Messenger lets you use XMPP and/or IRC services through Tor
+tor-messenger: without needing to install any software.
+tor-messenger: It can run off a USB flash drive, comes with a pre-configured Tor
+tor-messenger: settings to protect your anonymity, and is self-contained.
+tor-messenger:
+tor-messenger:
+tor-messenger: Project URL: https://thetorproject.github.io/tor-messenger-website/
+tor-messenger:
+tor-messenger:
